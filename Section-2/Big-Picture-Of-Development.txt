@@ -1,0 +1,8 @@
+How the whole web development works for a user and server.
+
+1) when a user send request to open a webpage on their browser.
+2) Request goes to the server and checks if it is just for an homepage then it response back immediately but if the request for authorization for the page then it takes time to checked whether the user is authorized or not.
+3) when server responds back to the user then at first all the code of html goes to the browser because html creates an structure of webpage. Like headings, paragraphs, images and all.
+4) Then the CSS code will goes to the browser and makes things little more beautiful. It gives designs and interactive things to webpage to make them beautiful.
+5) Then the JS code will provide functionality to the webpage. JS helps in the functionality of dropdown, searchbar and button functionality.
+6) JS also helps to show the data on browser from the server.
