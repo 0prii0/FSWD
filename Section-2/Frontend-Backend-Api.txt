@@ -1,0 +1,11 @@
+Front-End
+Frontend consist of three things. HTML, CSS, JAVASCRIPT.
+With these three things a junior level frontend engineer is ready.
+React, Vite, Vue are the advanced level of front end engineering.
+
+Backend
+Backend consist of majorly programming which is NodeJS, Ruby etc.
+Backend serves programming logic and in the advanced verison it also has database in it which is relational and non relational.
+Databases like MySQL, MongoDB etc.
+
+
