@@ -1,0 +1,15 @@
+What is Internet?
+Internet is the ability to connect one computer to my computer. thats it/
+
+Qus-1) How one computer is connected to another computer?
+Ans) Step-1 Each and every computer has their own unique IP Address which is look like [192.168.2.5].
+
+Step-2 First each computer can be connected to their Internet Service Provider and ask to find the other computer and website which they want to be connected.
+
+Step-3 ISP can reach out to DNS (Domain Name Service). DNS is just like a long phonebook which stores all the domain names in their system.
+
+Step-4 DNS serves the IP address of other computer or any website to ISP So that it can find it easily.
+
+Step-5 When ISP gets the address of other computer or any website then it can create a coonection between gigantic globe which is called a Internet, Internet will help ISP to connect with other website.
+
+The whole process in engineering is called Internet.
